@@ -15,8 +15,12 @@ Este é um projeto de gerenciamento de pacientes e consultas em C#. O sistema pe
 - **Visual Studio Code (VS Code)** com a extensão C# instalada.
 - **Sistema operacional:** Linux, macOS ou Windows.
 
-## Instruções de Instalação
+## Menu de Opções
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/usuario/gerenciamento-pacientes-consultas.git
+Ao executar o projeto, você verá o seguinte menu de opções:
+
+**1 - Cadastrar paciente
+2 - Nova consulta
+3 - Consultas agendadas
+4 - Cancelar consultas
+5 - Sair**
