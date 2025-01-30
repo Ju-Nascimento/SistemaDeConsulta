@@ -1,0 +1,21 @@
+# Ignorar arquivos binários de build
+bin/
+obj/
+
+# Ignorar arquivos de configuração do Visual Studio
+.vscode/
+.idea/
+.vs/
+
+# Ignorar arquivos de configuração do .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignorar arquivos temporários e de backup
+*~
+*.bak
+*.swp
+
+# Ignorar diretórios de cache do NuGet
+.nuget/
